@@ -44,10 +44,6 @@ Can we add new functionality without disturbing the old?
 
 ## The Landscape
 
-##Extensions
-
-1. Early Warning
-
 - Limits may change based on new research
 - Technology changes due to obsolescence
 - Sensors may be from different vendors with different accuracy
@@ -61,3 +57,7 @@ Shorten the Semantic distance
 - Functional to express relation between input and output
 - Object oriented to encapsulate state with actions
 - Apect oriented to capture repeating aspects
+
+## Extensions
+
+1. Early Warning
